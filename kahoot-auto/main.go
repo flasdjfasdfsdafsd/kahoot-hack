@@ -1,7 +1,7 @@
 package main
 
 //written by Peter Stenger (@reteps)
-import (
+import (05711557
 	"fmt"
 	"os"
 	"os/signal"
